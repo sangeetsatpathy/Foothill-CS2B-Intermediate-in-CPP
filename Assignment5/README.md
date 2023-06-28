@@ -1,3 +1,4 @@
+## Assignment 5:
 In this assignment, I programmed the MyString class, which is an object wrapper of a c-string.
 
 Here is a list of the operations this class supports:
@@ -19,3 +20,6 @@ Here is a list of the operations this class supports:
 8. Concatenation operator which can handle either a MyString object or a c-string on either side of the operator.
 
 9. += operator that combines both concatenation and assignment.
+
+## Assignment 8 Part 2
+Wrote a recursive function named isAPalindrome that takes a single MyString argument and two arguments that are bounds on MyString indices. The function examines the part of the argument between the two bounds (including the bounds) and return true if this part of the argument is a palindrome, false if it is not a palindrome.
